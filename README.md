@@ -4,7 +4,7 @@
 <img src="./assets/gif-readme/flexblog.gif" alt="Sobre 1">
 <br>
 <br>
-<a src="https://ramonlleopoldo.github.io/flexblog/">ACESSE O SITE AQUI</a>
+<a href="https://ramonlleopoldo.github.io/flexblog/">ACESSE O SITE AQUI</a>
 <br>
 <br>
 <p>Todas as informações do site são fictícias e utilizadas apenas para treinamento. </p>
